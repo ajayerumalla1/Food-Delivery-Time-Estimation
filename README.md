@@ -3,7 +3,7 @@ Machine Learning project that predicts food delivery time in minutes using histo
 
 Food delivery companies need to provide accurate delivery time in minutes for each customer order. However, actual delivery time varies because of many unpredictable factors such as:
 
-#   Distance between restaurant and customer
+### Distance between restaurant and customer
 
 #   Traffic conditions
 
